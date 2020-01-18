@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        messageLabel.text = "You are Fantastic!"
+        messageLabel.text = "You are Fantastic!!"
         messageLabel.textAlignment = .center
     }
     
